@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+###NPM 여기로 받아오는 파일은 버전관리 안한다###
+src/main/resources/static/node_modules
+src/main/resources/static/node
